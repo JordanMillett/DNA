@@ -1,4 +1,4 @@
-# dna
+# DNA
 
 This is my DNA download from [Ancestry](https://www.ancestry.com/)
 
